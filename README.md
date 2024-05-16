@@ -38,6 +38,7 @@ El jugador debe explorar una mazmorra compuesta de diferentes tipos de salas. Ca
 
 
 **Especificaciones Detalladas**
+
 1- Paso 1: Crear las interfaces básicas
   - Define una interfaz Room para representar una sala en la mazmorra.
   - Define una interfaz GameObject para representar objetos interactuables en la mazmorra.
