@@ -1,14 +1,15 @@
 
-Objetivo del Ejercicio
+**Objetivo del Ejercicio**
 
 Desarrollar un juego de exploración de mazmorras en Java que utilice los cuatro pilares de la programación orientada a objetos: encapsulación, herencia, polimorfismo y abstracción. El juego debe incluir clases, interfaces y la interacción entre diferentes tipos de objetos en la mazmorra.
 
 
-Descripción del Juego
+**Descripción del Juego**
 
 El jugador debe explorar una mazmorra compuesta de diferentes tipos de salas. Cada sala puede estar vacía, contener un tesoro o albergar un enemigo. El jugador debe navegar por estas salas, recoger objetos y enfrentarse a enemigos, todo mientras intenta mantenerse con vida.
 
-Reglas del Juego
+
+**Reglas del Juego**
 
 1- El jugador comienza con un nombre y una cantidad inicial de puntos de vida.
 
@@ -24,7 +25,7 @@ Reglas del Juego
 
 
 
-Requisitos Técnicos
+**Requisitos Técnicos**
 
 1- Interfaces y Abstracción: Define interfaces para las salas y los objetos interactuables en el juego.
 
@@ -36,7 +37,7 @@ Requisitos Técnicos
 
 
 
-Especificaciones Detalladas
+**Especificaciones Detalladas**
 1- Paso 1: Crear las interfaces básicas
   - Define una interfaz Room para representar una sala en la mazmorra.
   - Define una interfaz GameObject para representar objetos interactuables en la mazmorra.
@@ -56,7 +57,7 @@ Paso 4: Crear la clase principal del juego
   - Implementa un bucle que permita al jugador moverse por las salas.
   - Maneja las interacciones del jugador con las salas y los objetos.
 
-Instrucciones Adicionales
+**Instrucciones Adicionales**
   - Asegúrate de manejar adecuadamente las interacciones entre el jugador y los diferentes tipos de salas.
   - Considera agregar más salas y enemigos para hacer el juego más interesante.
   - Puedes implementar características adicionales como la posibilidad de que el jugador use objetos del inventario.
