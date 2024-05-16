@@ -39,11 +39,11 @@ El jugador debe explorar una mazmorra compuesta de diferentes tipos de salas. Ca
 
 **Especificaciones Detalladas**
 
-1- Paso 1: Crear las interfaces básicas
+Paso 1: Crear las interfaces básicas
   - Define una interfaz Room para representar una sala en la mazmorra.
   - Define una interfaz GameObject para representar objetos interactuables en la mazmorra.
 
-2- Paso 2: Crear la clase Player
+Paso 2: Crear la clase Player
   - Define una clase Player que encapsule los datos y comportamientos del jugador.
   - La clase debe incluir atributos como name, health, e inventory.
   - Proporciona métodos para que el jugador pueda recibir daño, recoger objetos y mostrar su estado actual.
